@@ -1,5 +1,29 @@
 # @evidence-dev/evidence
 
+## 21.0.0
+
+### Patch Changes
+
+- ca551518: Markdown pages are now more specific before being converted to sveltekit page filepaths
+- a1fa819e: bump vulnerable deps
+- ca551518: Add support for markdown partials
+- Updated dependencies [16112191]
+- Updated dependencies [883c9ebb]
+- Updated dependencies [ef3ec286]
+- Updated dependencies [86b94da9]
+- Updated dependencies [b9d54140]
+- Updated dependencies [5639ac12]
+- Updated dependencies [a1fa819e]
+- Updated dependencies [fc07d945]
+- Updated dependencies [86635f53]
+- Updated dependencies [a00c7c76]
+- Updated dependencies [ca551518]
+- Updated dependencies [acd0be37]
+  - @evidence-dev/component-utilities@1.1.1
+  - @evidence-dev/core-components@2.0.0
+  - @evidence-dev/preprocess@3.1.2
+  - @evidence-dev/db-orchestrator@2.2.5
+
 ## 20.0.1
 
 ### Patch Changes

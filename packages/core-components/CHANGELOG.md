@@ -1,5 +1,27 @@
 # @evidence-dev/core-components
 
+## 2.0.0
+
+### Major Changes
+
+- acd0be37: updates sankey chart animation duration to match other charts.
+
+### Minor Changes
+
+- 883c9ebb: Adds delta content type to DataTable
+- 86b94da9: Add colour scale conditional formatting to DataTable
+
+### Patch Changes
+
+- ef3ec286: formatValue based on `data.y/xAxis` instead of `value` in ReferenceLine
+- b9d54140: Added value prop alias for column to Value component
+- 5639ac12: Change details component styling, adds open prop
+- a1fa819e: bump vulnerable deps
+- fc07d945: Updated style to enhance visibility of tabs and tab picker. And added a prop to customize background color of tab picker button.
+- a00c7c76: Make Column component reactive to prop changes
+- Updated dependencies [16112191]
+  - @evidence-dev/component-utilities@1.1.1
+
 ## 1.2.1
 
 ### Patch Changes

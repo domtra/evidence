@@ -1,5 +1,27 @@
 # @evidence-dev/components
 
+## 2.6.0
+
+### Minor Changes
+
+- 883c9ebb: Adds delta content type to DataTable
+- 86b94da9: Add colour scale conditional formatting to DataTable
+
+### Patch Changes
+
+- Updated dependencies [16112191]
+- Updated dependencies [883c9ebb]
+- Updated dependencies [ef3ec286]
+- Updated dependencies [86b94da9]
+- Updated dependencies [b9d54140]
+- Updated dependencies [5639ac12]
+- Updated dependencies [a1fa819e]
+- Updated dependencies [fc07d945]
+- Updated dependencies [a00c7c76]
+- Updated dependencies [acd0be37]
+  - @evidence-dev/component-utilities@1.1.1
+  - @evidence-dev/core-components@2.0.0
+
 ## 2.5.1
 
 ### Patch Changes
